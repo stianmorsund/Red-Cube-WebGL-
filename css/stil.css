@@ -1,0 +1,10 @@
+body { background: #000; text-align:center; }
+canvas { cursor: crosshair; }
+h1 { color: white; font: bold 26px/22px sans-serif; }
+#message {  display:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; width: 100%; height: 100%; background: #000; z-index: 999; text-align:center; padding-top: 20%; font: bold 52px/22px sans-serif; }
+.red, .green, .blue, .yellow, .white { display: block !important; }
+.red { background: red !important; color: white;}
+.green { color: green; }
+.blue { color: blue; }
+.yellow { color: yellow;}
+.white { color: white;}
